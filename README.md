@@ -92,11 +92,12 @@
 #### 请求URL：
 	http://localhost:3000/api/detail
 
-#### 请求方式：
+### 请求方式：
 	GET
-	
-####请求示例
-    http://localhost:3000/api/detail?id=5e982a825b355e4bbc0f8e44
+
+### 参数类型：query
+	|参数          |是否必选  |类型     |说明|
+    	|id           |Y        |string    |产品id|
     
 ## 4、搜索产品
 
