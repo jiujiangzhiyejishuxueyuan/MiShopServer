@@ -1,4 +1,4 @@
-# mishop-后端
+# mishop-api
 ###### 使用前请先安装MongoDB，导入根目录下MiShop数据库文件
 ### 技术栈
 - 开发语言：node.js
